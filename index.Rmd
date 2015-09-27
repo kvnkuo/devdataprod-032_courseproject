@@ -59,7 +59,7 @@ https://github.com/kvnkuo/devdataprod-032_courseproject/tree/master/app
 
 Also, this presentation is deployed at the following location
 
-https://github.com/kvnkuo/devdataprod-032_courseproject
+https://github.com/kvnkuo/devdataprod-032_courseproject/tree/gh-pages
 
 
 
